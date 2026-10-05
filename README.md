@@ -1,4 +1,4 @@
-# NagarDrishti 🏙️
+# NagarDrishti 
 
 ### AI-Powered Civic Governance & Citizen Feedback Platform
 
